@@ -1,0 +1,44 @@
+#main-doc{
+	margin-left: 25%;
+}
+
+#navbar{
+	position: fixed;
+
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+#header{
+	color: red;
+	font-size: 25px;
+}
+
+#header1{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#header2{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#header3{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#header4{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#header5{
+	font-size: 18px;
+	font-weight: bold;
+}
